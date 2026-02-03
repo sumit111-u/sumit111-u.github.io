@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Optional: uncomment if you use env or build output
+# .env
+# dist/
